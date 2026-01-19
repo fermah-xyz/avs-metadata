@@ -2,6 +2,6 @@
   "name": "Fermah AVS",
   "website": "fermah.xyz",
   "description": "Fermah is a universal proof generation layer that provides fast, cheap, and reliable proof generation for any proof system.",
-  "logo": "ipfs://bafkreihi5npmfszkzznyb6wch4ec3zui4jwa7mkozmdimdjcjlutvcpi2q",
+  "logo": "https://raw.githubusercontent.com/fermah-xyz/avs-metadata/4000e1efc8ca40657d685d592b00dfa38c937c2e/fermah.png",
   "twitter": "https://twitter.com/fermah_xyz"
 }
